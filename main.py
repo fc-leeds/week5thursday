@@ -9,4 +9,5 @@ def print_names():
   print("Tom Brandon")
   print("Haoran Yang")
   print("Sam Ellis")
+  print("Yuxuan Wang")
   print("Shixiang Xu")
