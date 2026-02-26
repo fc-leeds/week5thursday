@@ -1,4 +1,3 @@
 def print_names():
+  print("Francesco Cosentino")
   print("Sorawit Tipsawad")
-if name == "main":
-  print_names()
